@@ -11,3 +11,11 @@ Git clone
 git clone is to clone the repository using repository url  from the remote to local. 
 
 `git clone <git repository url>`
+
+Git pull
+
+git pull to get code from remote to local
+
+`git pull`
+
+Note: make sure you are inside the repository for git pull to work.
