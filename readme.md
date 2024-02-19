@@ -43,3 +43,9 @@ git commit is to store thee code in staging area.
 git push is to push the code from local to remote.
 
 `git push`
+
+**--version**
+
+--version is used to see whether we installed or not 
+
+`git --version`
