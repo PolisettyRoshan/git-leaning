@@ -36,7 +36,7 @@ git add is to add the code from remote to local.
 
 git commit is to store thee code in staging area.
 
-`git commit -m (message)`
+`git commit -m "(message)"`
 
 **Git push**
 
